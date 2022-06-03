@@ -1,0 +1,13 @@
+d8137cf (HEAD -> deathedHeadBranch) HEAD@{0}: checkout: moving from d8137cf1d1c8a82584f4add7aafc4849ef587b1e to deathedHeadBranch
+d8137cf (HEAD -> deathedHeadBranch) HEAD@{1}: checkout: moving from master to d8137cf1d1c8a82584f4add7aafc4849ef587b1e
+f93fd3e (origin/master, master) HEAD@{2}: merge origin/master: Fast-forward
+6f7ebaf HEAD@{3}: checkout: moving from texts to master
+f0eb421 (tag: v1.1, origin/texts, texts) HEAD@{4}: commit: Kant Rozprawa
+d8137cf (HEAD -> deathedHeadBranch) HEAD@{5}: commit: Lorem ipusum
+6f7ebaf HEAD@{6}: checkout: moving from master to texts
+6f7ebaf HEAD@{7}: checkout: moving from peronal_details to master
+5818c3f (tag: v1.0, origin/peronal_details, peronal_details) HEAD@{8}: commit: E-mail adress
+0f8880d HEAD@{9}: commit: Index number
+069d5ef HEAD@{10}: commit: First name and last name
+6f7ebaf HEAD@{11}: checkout: moving from master to peronal_details
+6f7ebaf HEAD@{12}: commit (initial): Stworzenie README.md oraz .gitignore
